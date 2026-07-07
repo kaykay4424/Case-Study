@@ -17,7 +17,7 @@ The bank is losing customers and needs to understand:
 
 ## Tools Used
 - MySQL / MySQL Workbench
-- Advanced SQL — CTEs, Window Functions, Subqueries, CASE WHEN, Risk Scoring
+- Advanced SQL -CTEs, Window Functions, Subqueries, CASE WHEN, Risk Scoring
 
 ## Key Findings
 
@@ -25,10 +25,10 @@ The bank is losing customers and needs to understand:
 |---|---------|
 | 1 | Overall churn rate is 16.07% |
 | 2 | $120K+ earners have highest churn RATE (17.33%) despite being smallest segment |
-| 3 | Gold card holders churn at 18.1% — highest among significant card segments |
+| 3 | Gold card holders churn at 18.1% - highest among significant card segments |
 | 4 | Female customers churn at 17.36% vs 14.62% for males |
-| 5 | Churned customers average only 44 transactions vs 68 for existing — low activity is an early warning signal |
-| 6 | 233 customers flagged as immediate flight risk — inactive 3+ months with <50 transactions |
+| 5 | Churned customers average only 44 transactions vs 68 for existing - low activity is an early warning signal |
+| 6 | 233 customers flagged as immediate flight risk - inactive 3+ months with <50 transactions |
 | 7 | Risk model identified 1,316 High Risk customers (13% of base) requiring immediate retention action |
 | 8 | Unknown marital status correlates with highest churn (17.22%) — incomplete profiles = higher risk |
 
