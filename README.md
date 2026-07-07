@@ -1,4 +1,4 @@
-# Credit Card Churn Analysis - SQL Case Study
+# Credit Card Churn Analysis - SQL Case Study (by Krish Kamboj)
 
 ## Project Overview
 I Analysed 10,127 credit card customers for a bank to identify churn patterns, 
