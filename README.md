@@ -1,19 +1,19 @@
-# Credit Card Churn Analysis — SQL Case Study
+# Credit Card Churn Analysis - SQL Case Study
 
 ## Project Overview
-Analysed 10,127 credit card customers for a bank to identify churn patterns, 
-risk segments, and retention opportunities using advanced SQL.
+I Analysed 10,127 credit card customers for a bank to identify churn patterns, 
+risk segments, and retention opportunities using advanced SQL. The data was take from kaggle datasets. 
 
 ## Business Problem
 The bank is losing customers and needs to understand:
 - Who is churning and why?
 - Which segments are highest risk?
-- Where should retention efforts be focused?
+- Where should retention efforts be focused? etc.
 
 ## Dataset
 - Source: Kaggle — Bank Churners Dataset
 - 10,127 customers | 20 columns
-- Key fields: Demographics, card type, income, transaction behaviour, churn status
+- Key fields: Demographics, card type, income, transaction behaviour, churn status.....
 
 ## Tools Used
 - MySQL / MySQL Workbench
@@ -48,4 +48,5 @@ The bank is losing customers and needs to understand:
 4. **Upsell opportunity:** Target high credit limit / low utilization customers with rewards campaigns
 
 ## File Structure
-- `case_study_bankchurners_krishkamboj.sql` — All 20 queries with business questions and insights
+- [case_study_bankchurners_krishkamboj.sql](https://github.com/user-attachments/files/29737275/case_study_bankchurners_krishkamboj.sql) - All 20 queries with business questions and insights written 
+
