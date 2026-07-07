@@ -53,22 +53,36 @@ The bank is losing customers and needs to understand:
 ## Key Findings
 
 ### 1. Overall Churn Overview
-![Churn Overview](screenshots/q1_churn_overview.png)
+<img width="729" height="269" alt="q1_churn_overview" src="https://github.com/user-attachments/assets/99397a3a-aa6c-47d2-9f26-4f4e95b94c33" />
+
 
 ### 2. Churn Rate by Income Category
-![Income Churn](screenshots/q4_income_churn.png)
+<img width="853" height="458" alt="q4_income_churn" src="https://github.com/user-attachments/assets/8734439e-44b7-48ee-b278-71432c002645" />
+
 
 ### 3. Churn Rate by Card Category
-![Card Churn](screenshots/q5_card_churn.png)
+<img width="885" height="399" alt="q5_card_churn" src="https://github.com/user-attachments/assets/7532e6d4-a0a3-41b1-baee-459b9589f9a4" />
+
 
 ### 4. Gender Churn Rate
-![Gender Churn](screenshots/q10_gender_churn.png)
+<img width="897" height="301" alt="q10_gender_churn" src="https://github.com/user-attachments/assets/13b10d2b-b3dc-43ef-a2f5-b2f41dcfe7f1" />
+
 
 ### 5. Risk Segmentation Summary
-![Risk Summary](screenshots/q15_risk_summary.png)
+<img width="876" height="570" alt="q15_risk_summary_query" src="https://github.com/user-attachments/assets/e2fcd020-6337-4e82-bdb6-e51c70b3817d" />
+
+<img width="650" height="613" alt="q15_result_table" src="https://github.com/user-attachments/assets/b0556134-c65a-41f3-b928-7afdfb938771" />
+
 
 ### 6. Flight Risk Customers
-![Flight Risk](screenshots/q11_flight_risk.png)
+<img width="1130" height="721" alt="q11_flight_risk" src="https://github.com/user-attachments/assets/1357f3e6-23c7-464e-8fc4-4b764ef3b485" />
 
-### 7. Master Customer Summary
-![Master Summary](screenshots/q20_master_summary.png)
+
+### 7. Age Group Churn
+<img width="855" height="654" alt="q7_churn_age_group" src="https://github.com/user-attachments/assets/1862f636-c030-4a08-b5f9-855b0654d378" />
+
+
+### 8. Master Customer Summary
+<img width="901" height="637" alt="q20_master_summary" src="https://github.com/user-attachments/assets/a2381977-8f78-4400-ab22-4a827d99742d" />
+
+
