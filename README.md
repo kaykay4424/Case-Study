@@ -11,7 +11,7 @@ The bank is losing customers and needs to understand:
 - Where should retention efforts be focused? etc.
 
 ## Dataset
-- Source: Kaggle — Bank Churners Dataset
+- Source: Kaggle - Bank Churners Dataset
 - 10,127 customers | 20 columns
 - Key fields: Demographics, card type, income, transaction behaviour, churn status.....
 
