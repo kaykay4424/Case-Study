@@ -50,3 +50,25 @@ The bank is losing customers and needs to understand:
 ## File Structure
 - [case_study_bankchurners_krishkamboj.sql](https://github.com/user-attachments/files/29737275/case_study_bankchurners_krishkamboj.sql) - All 20 queries with business questions and insights written 
 
+## Key Findings
+
+### 1. Overall Churn Overview
+![Churn Overview](screenshots/q1_churn_overview.png)
+
+### 2. Churn Rate by Income Category
+![Income Churn](screenshots/q4_income_churn.png)
+
+### 3. Churn Rate by Card Category
+![Card Churn](screenshots/q5_card_churn.png)
+
+### 4. Gender Churn Rate
+![Gender Churn](screenshots/q10_gender_churn.png)
+
+### 5. Risk Segmentation Summary
+![Risk Summary](screenshots/q15_risk_summary.png)
+
+### 6. Flight Risk Customers
+![Flight Risk](screenshots/q11_flight_risk.png)
+
+### 7. Master Customer Summary
+![Master Summary](screenshots/q20_master_summary.png)
